@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .sidebar {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .main-content {
+    flex: 2;
+  }
+  
+  .calendar {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
